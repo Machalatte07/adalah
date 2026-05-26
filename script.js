@@ -612,20 +612,20 @@ function loadSpotifyPlaylist(playlistNumber) {
         1: {
             // Ganti dengan playlist pertama kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/37i9dQZF1DWYtQSOiZF6hj?si=0b945793c2934ba1',
-            name: 'Birthday Special Mix',
-            description: 'Lagu-lagu spesial untuk hari istimewa kamu ✨'
+            name: '',
+            description: '✨'
         },
         2: {
             // Ganti dengan playlist kedua kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/3gPSenyxZMdB3A54HeEruz?si=6b4dec830d4f4a48',
-            name: 'Love Songs Collection',
-            description: 'Koleksi lagu cinta terbaik untuk kita ❤️'
+            name: '',
+            description: '❤️'
         },
         3: {
             // Ganti dengan playlist ketiga kamu
             embedUrl: 'https://open.spotify.com/embed/playlist/4dlQ4JHE6abxv38aae2HL1?si=95730613199e4dad',
-            name: 'Happy Memories',
-            description: 'Lagu-lagu yang mengingatkan kenangan indah 🌟'
+            name: '',
+            description: '🌟'
         }
     };
     
